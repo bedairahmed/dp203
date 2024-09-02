@@ -1,0 +1,9 @@
+{
+	"name": "df-eus-dp203-02",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43042caa-d8a5-4412-ae79-3659600ac09c",
+		"tenantId": "05fb04cc-e42c-494a-9f15-2d5084198cbe"
+	}
+}
